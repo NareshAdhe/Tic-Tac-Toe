@@ -65,13 +65,6 @@ Follow these steps to run the project locally:
 
 ---
 
-## Screenshots
-
-### Game Board
-![Tic Tac Toe Game Board](https://via.placeholder.com/600x400)
-
----
-
 ## Future Enhancements
 - Add single-player mode with AI opponent.
 - Implement a scoreboard to track wins and draws.
