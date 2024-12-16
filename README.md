@@ -44,7 +44,7 @@ Follow these steps to run the project locally:
    ```
 
 5. **Open the game in your browser:**
-   Visit [http://localhost:5173](http://tic-tac-toe-ecru-phi-62.vercel.app/) to play the game.
+   Visit [http://tic-tac-toe-ecru-phi-62.vercel.app/](http://tic-tac-toe-ecru-phi-62.vercel.app/) to play the game.
 
 ---
 
@@ -94,7 +94,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Contact
-For any queries or suggestions, feel free to contact me at [your-email@example.com](mailto:nareshadhe01@gmail.com).
+For any queries or suggestions, feel free to contact me at [nareshadhe01@gmail.com](mailto:nareshadhe01@gmail.com).
 
 ---
 
